@@ -3,6 +3,7 @@
 
 ## [Rules](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 An infinite grid of cells. Cells are either live or dead. At every game "turn", evaluate the next generation of live and dead cells
+
 1. A live cell with fewer than 2 live neighbors dies, as if by under-population.
 2. A live cell with 2 or 3 live neighbors lives on.
 3. A live cell with more than 3 live neighbors dies, as if by over-crowding.
