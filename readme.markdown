@@ -23,3 +23,6 @@ An infinite grid of cells. Cells are either live or dead. At every game "turn", 
 2. No duplication (code > concepts > DRY)
 3. Reveals intent (good names)
 4. Small
+
+## Reference
+* [Game of Life](http://blog.objectmentor.com/articles/2010/08/15/game-of-life-with-lunivore) with Bob Martin and lunivore
