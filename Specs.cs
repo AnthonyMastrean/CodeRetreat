@@ -1,6 +1,6 @@
 ﻿using Machine.Specifications;
 
-namespace GameOfLife
+namespace Conways
 {
     [Subject("Game of Life")]
     public class When_a_live_cell_has_fewer_than_two_live_neighbors
