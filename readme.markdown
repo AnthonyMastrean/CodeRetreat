@@ -27,3 +27,4 @@ An infinite grid of cells. Cells are either live or dead. At every game "turn", 
 ## Reference
 * [Game of Life](http://blog.objectmentor.com/articles/2010/08/15/game-of-life-with-lunivore) with Bob Martin and lunivore
 * Game of Life [in Erlang](https://gist.github.com/1225511) in 20 lines!
+* Game of Life [in APL](http://www.youtube.com/watch?v=a9xAKttWgP4) (in 8 minutes!)
