@@ -24,7 +24,7 @@ An infinite grid of cells. Cells are either live or dead. At every game "turn", 
 3. Reveals intent (good names)
 4. Small
 
-## [Perfecting Small Classes and Short Methodshttp://binstock.blogspot.com/2008/04/perfecting-oos-small-classes-and-short.html
+## [Perfecting Small Classes and Short Methods](http://binstock.blogspot.com/2008/04/perfecting-oos-small-classes-and-short.html)
 1. Use only one level of indentation per method.
 2. Don’t use the ‘else’ keyword.
 3. Wrap all primitives and strings.
